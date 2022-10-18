@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+body{
+
+    font-family: 'Bungee', cursive;
+    font-size: 26px;
+    background: linear-gradient(to top, #5ee7df 0%, #b490ca 100%) no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    margin: 50px;
+   text-align: center; 
+}
+
+fieldset{
+
+    padding: 15px;
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    border: 5px solid #b490ca;
+}
+
+
+
+#reloj{
+    font-size: 66px;
+    
+}
+
+#fecha{
+    font-size: 20px;
+    
+}
